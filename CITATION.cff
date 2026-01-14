@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "UVCS: Universal Vector Cognitive Stack"
+message: "If you use this specification, please cite it using the metadata from this file."
+type: software
+version: 2.0.0
+doi: "[To be assigned]"
+date-released: 2025-01-14
+license: CC-BY-4.0
+repository-code: "https://github.com/voidfiller1113/UVCS"
+
+abstract: >-
+  UVCS is the Communication Protocol enabling the MHCO Cognitive Kernel
+  to query and select vectors from the UVRA Probability Gradient Field.
+  Selection requires |ψ⟩ (Coherent Superposition) input type.
+  AI produces only {0,1}ⁿ (Classical Bit-State). This is a type incompatibility.
+
+keywords:
+  - ai-consciousness
+  - quantum-consciousness
+  - philosophy-of-mind
+  - human-ai-interaction
+  - orch-or
+  - cognitive-architecture
+  - interface-specification
+  - middleware-protocol
+  - selection-authority
+  - type-system
+
+references:
+  - type: software
+    title: "MHCO: Minimal Human Cognitive OS"
+    version: 2.0.0
+    doi: "10.5281/zenodo.18203838"
+    url: "https://doi.org/10.5281/zenodo.18203838"
+    repository-code: "https://github.com/voidfiller1113/MHCO"
+
+  - type: software
+    title: "UVRA: Universal Vector Reality Architecture"
+    version: 2.0.0
+    doi: "10.5281/zenodo.18237856"
+    url: "https://doi.org/10.5281/zenodo.18237856"
+    repository-code: "https://github.com/voidfiller1113/UVRA"
