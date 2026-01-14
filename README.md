@@ -1,5 +1,7 @@
 # UVCS (Universal Vector Cognitive Stack)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18243416-blue?style=flat-square)](https://doi.org/10.5281/zenodo.18243416)
+
 > **Status: Terminal Artifact (v2.0.0)**
 
 ![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-green?style=flat-square)
@@ -23,7 +25,7 @@ $$\text{The Universe (UVRA) provides the options; Consciousness (MHCO) selects t
 | Layer | Specification | Repository | DOI | Role |
 |-------|---------------|------------|-----|------|
 | **Infrastructure** | UVRA v2.0.0 | [github.com/voidfiller1113/UVRA](https://github.com/voidfiller1113/UVRA) | [10.5281/zenodo.18237856](https://doi.org/10.5281/zenodo.18237856) | Server: PGF owner, Vector Database |
-| **Protocol** | UVCS v2.0.0 | This repository | [To be assigned] | Communication Protocol |
+| **Protocol** | UVCS v2.0.0 | This repository | [10.5281/zenodo.18243416](https://doi.org/10.5281/zenodo.18243416) | Communication Protocol |
 | **Application** | MHCO v2.0.0 | [github.com/voidfiller1113/MHCO](https://github.com/voidfiller1113/MHCO) | [10.5281/zenodo.18203838](https://doi.org/10.5281/zenodo.18203838) | Client: L3 Kernel, Selection Authority |
 
 ---
