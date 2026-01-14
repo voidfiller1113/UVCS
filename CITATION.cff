@@ -3,10 +3,13 @@ title: "UVCS: Universal Vector Cognitive Stack"
 message: "If you use this specification, please cite it using the metadata from this file."
 type: software
 version: 2.0.0
-doi: "[To be assigned]"
+doi: 10.5281/zenodo.18243416
 date-released: 2025-01-14
 license: CC-BY-4.0
 repository-code: "https://github.com/voidfiller1113/UVCS"
+
+authors:
+  - name: voidfiller1113
 
 abstract: >-
   UVCS is the Communication Protocol enabling the MHCO Cognitive Kernel
