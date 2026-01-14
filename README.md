@@ -2,6 +2,12 @@
 
 > **Status: Terminal Artifact (v2.0.0)**
 
+![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-green?style=flat-square)
+![Status: Terminal Artifact](https://img.shields.io/badge/Status-Terminal%20Artifact-black?style=flat-square)
+![Role: Communication Protocol](https://img.shields.io/badge/Role-Communication%20Protocol-purple?style=flat-square)
+![Logic: Non--Computational](https://img.shields.io/badge/Logic-Non--Computational-orange?style=flat-square)
+![Topology: L3 Bridge](https://img.shields.io/badge/Topology-L3%20Bridge-blue?style=flat-square)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square)
 ---
 
 ## Definition
